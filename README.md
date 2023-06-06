@@ -1,9 +1,13 @@
 # Global-solution
 
 550241 - Gustavo Akio Alves Goto
+
 99275 - Breno Silva
+
 99586 - Vitor da Silva
+
 99404 - Thiago Garcia Tonato
+
 
 # Tecido Inteligente para Caminhões 
 
@@ -28,12 +32,19 @@ Utilizamos o tinkercard nesse projeto para demostrar como funciona o tecido em r
 *Componentes 
 
  1- Arduino UNO R3
+ 
  1- Sensor de Temperatura[TMP36]
+ 
  1- Sensor de Gás
+ 
  1- sensor PIR (Sensor de Proximidade)
+ 
  1- Potênciometro 
+ 
  1- LCD 16x2
+ 
  1- Piezo
+ 
  2- Resistores de 220
  
  
