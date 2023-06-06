@@ -1,27 +1,16 @@
-# Código fonte
-
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(13, 12, 5, 4, 3, 2);
-
 int tempValue = 0;
-
 int sensorValue = 0;
-
 int gas = 0;
-
 int presenca = A1;
-
 int SensorTempPino=0;
-
 int piezo = 11;
 
 void setup(){
-
   lcd.begin(16,2);
-  
   pinMode(piezo, OUTPUT);
-  
   pinMode(presenca, INPUT);
   Serial.begin(9600);
 }
